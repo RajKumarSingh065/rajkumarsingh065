@@ -6,18 +6,20 @@
 - 🛡️ Security Tools: Wireshark, OWASP Top 10, Azure, Linux, Burp Suite, Metasploit, Nmap, Hydra, SIEM, IAM<br>
 - 🧠 Concepts: Cryptography, Pen Testing, Malware Analysis, Threat Intelligence, MITRE ATT&CK, NIST Framework<br>
 - 🌐 Networking: TCP/IP, Packet Analysis, Network Forensics<br>
-- 🚀 Exploring: Machine Learning, Quantum Cryptography<br>
-- 📫 Reach me at: [29rajkumarsingh@gmail.com]<br>
+- 🚀 Exploring: Machine Learning, Natural Language Processing, Quantum Cryptography<br>
+- 📫 Reach me at: [29rajkumarsingh@gmail.com](mailto:29rajkumarsingh@gmail.com)<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajkumarsingh065&show_icons=true&theme=radical" alt="Raj's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumarsingh065&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajkumarsingh065&show_icons=true&theme=radical&v=1" alt="Raj's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumarsingh065&layout=compact&theme=radical&v=1" alt="Top Languages" />
 </p>
 
-### 🔭 Current Projects
-- Building a hybrid threat detection system using ML and SIEM
-- Experimenting with quantum-safe encryption algorithms
-- Writing blog posts on advanced privilege escalation techniques
+### 🔭 Current Projects & Research
+- 🛡️ Building an Enterprise SOC and Incident Response Lab using a containerized Wazuh SIEM cluster and VirusTotal API
+- 🔐 Developing **SilicaSecure** and a Secure API Gateway using Kong, Docker, and Python
+- ⚛️ Researching Hybrid Quantum-Classical Cryptographic Protocols for Secure IoT
+- 📜 Authored research on Immutable Blockchain Logs for Monitoring and Preventing Insider Threats
+- 🚀 Building **LevelUp Tax**, a gamified platform for taxation and GST compliance
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -45,10 +47,9 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Quantum Cryptography](https://img.shields.io/badge/Quantum_Crypto-6A1B9A?style=for-the-badge&logo=quantconnect&logoColor=white)
 
-
 <details>
   <summary>📊 Weekly Development Breakdown</summary>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raj-sec&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajkumarsingh065&theme=radical&v=1" alt="Weekly Development Breakdown" />
 </details>
 
 <details>
